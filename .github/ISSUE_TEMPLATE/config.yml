@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/orgs/kestrel-labs-org/discussions
+    about: Please use Discussions for support and how-to questions.
+  - name: Report a security vulnerability
+    url: mailto:security@kestrellabs.org
+    about: Email security@kestrellabs.org, or use private vulnerability reporting on the repo.
