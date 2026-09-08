@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kestrel-labs-org/kestrel-brand/main/banners/readme-banner-1200x300.png" alt="Kestrel Labs — Open source tools for Linux" width="100%">
+</p>
+
 # Kestrel Labs
 
 Kestrel Labs builds free, open-source tools for **Linux** — an app store client, backup, and a WireGuard-compatible VPN — with an optional cloud service when you want sync, enrollment, or managed backup.
