@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report security issues privately to **security@kestrellabs.org**.
+Please report security issues privately to **kestrellabs@protonmail.com**.
 
 You can also use [GitHub private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) on any Kestrel Labs repository that has it enabled.
 
