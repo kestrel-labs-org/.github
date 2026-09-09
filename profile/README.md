@@ -6,7 +6,7 @@
 
 Kestrel Labs builds free, open-source tools for **Linux**
 
-We aim to support Linux broadly; **we're starting with Debian-based distros and variants** (`.deb` packaging first), then expanding from there.
+We aim to support Linux broadly **we're starting with Debian-based distros and variants** (`.deb` packaging first), then expanding from there.
 
 Everything you install from us is **GPLv3 (or later)**. [kestrellabs.cloud](https://kestrellabs.cloud) is the optional free service the clients stay open either way.
 
