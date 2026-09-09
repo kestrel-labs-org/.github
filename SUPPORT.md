@@ -11,4 +11,4 @@ Please use Discussions (or email below) for support questions. GitHub Issues are
 
 ## Security
 
-Report vulnerabilities to **security@kestrellabs.org** — see [SECURITY.md](./SECURITY.md).
+Report vulnerabilities to **kestrellabs@protonmail.com** — see [SECURITY.md](./SECURITY.md).
